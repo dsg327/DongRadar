@@ -7,7 +7,7 @@
 
 ## Description
 
-My Project is a simple Python library for doing X, Y, and Z. It's designed to be easy to use and highly customizable.
+Read of Radar Basic Data Files.
 
 ## Installation
 
